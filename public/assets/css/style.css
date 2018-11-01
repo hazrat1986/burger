@@ -1,0 +1,13 @@
+body {
+  background-color: hsla(187, 41%, 79%, 0.959);
+}
+
+img {
+  width:550px;
+  height: 300px;
+}
+
+.red_font {
+  color: #bc001f;
+}
+
