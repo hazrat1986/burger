@@ -22,5 +22,5 @@ var router = require('./controllers/burger_controller.js');
 app.use("", router);
 
 // Open Server
-var port =  3000;
+var port =  8080;
 app.listen(port);
